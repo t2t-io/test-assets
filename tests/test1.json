@@ -1,5 +1,7 @@
 {
    "hello": "world",
    "great": 12,
-   "awesome": true
+   "awesome": {
+     "enabled": true  
+   }
 }
